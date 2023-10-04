@@ -2,6 +2,8 @@
 
 ### Alex Zhu, Raymond Ouyang, Sean Zhao
 
+Hosted at https://focusfy.vercel.app/
+
 ### Short Description
 Our plan is to create a web-based program that helps teachers and students with productivity. This program includes:
 * A customizable schedule
